@@ -11,4 +11,4 @@ socialImage: "/media/image-2.jpg"
 * **[Nabil-Fareed Alikhan](https://quadram.ac.uk/people/nabil-fareed-alikhan/)** - Bioinformatician within the Core Bioinformatics group at the Quadram Institute.
 
 
-Globe icon made by [turkkub](https://www.flaticon.com/authors/turkkub)
+Globe featured in icon made by [turkkub](https://www.flaticon.com/authors/turkkub)
