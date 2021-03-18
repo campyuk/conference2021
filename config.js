@@ -32,6 +32,10 @@ module.exports = {
       path: '/pages/register'
     },    
     {
+      label: 'Campy highlights',
+      path: '/pages/publications'
+    },    
+    {
       label: 'Code of conduct',
       path: '/pages/conduct'
     }
