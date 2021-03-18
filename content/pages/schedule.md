@@ -11,10 +11,12 @@ socialImage: "/media/image-2.jpg"
 |                | **Welcome**                                  | 15:00-15:15 |
 |                | **Speaking session 1**                       | 15:15-16:30 |
 |                | **Virtual Coffee break**                     | 16:30-17:00 |
+|                |           ---                                |             | 
 | 9th September  | **Speaking session 2**                       | 09:00-10:30 |
 |                | **Virtual Coffee break**                     | 10:30-11:00 |
-|                | **Speaking session 1**                       | 15:00-16:30 |
+|                | **Speaking session 3**                       | 15:00-16:30 |
 |                | **Virtual Coffee break**                     | 16:30-17:00 |
+|                |            ---                               |             | 
 | 10th September | **Speaking session 4**                       | 09:00-10:30 |
 |                | **Virtual Coffee break**                     | 10:30-11:00 |
 |                | **Plenary panel**                            | 15:00-16:30 |
