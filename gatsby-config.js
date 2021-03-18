@@ -99,7 +99,6 @@ module.exports = {
       }
     },
     'gatsby-plugin-netlify',
-    'gatsby-plugin-netlify-cms-paths',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

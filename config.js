@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://campyuk.github.io/',
+  pathPrefix: '/conference2021/',
+  title: 'CampyUK goes global',
+  subtitle: 'A virtual conference for Campylobacter',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,32 +12,44 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Sessions',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Program overview',
+      path: '/pages/schedule'
+    },    
+    {
+      label: 'About this meeting',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Organisers and sponsors',
+      path: '/pages/aboutus'
+    },
+    {
+      label: 'Register to attend',
+      path: '/pages/register'
+    },    
+    {
+      label: 'Code of conduct',
+      path: '/pages/conduct'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'CampyUK goes global 2021',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A virtual conference for Campylobacter. Sept 8 - 10. 2021.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'campyuk',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
