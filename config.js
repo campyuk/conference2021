@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://campyuk.github.io/',
   pathPrefix: '/conference2021/',
   title: 'CampyUK goes global',
-  subtitle: 'A virtual conference for Campylobacter',
+  subtitle: 'CampyUK virtual conference for Campylobacter',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Sessions',
+      label: 'Sessions and news',
       path: '/'
     },
     {
