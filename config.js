@@ -38,7 +38,7 @@ module.exports = {
   ],
   author: {
     name: 'CampyUK goes global 2021',
-    photo: '/photo.jpg',
+    photo: '/photo.png',
     bio: 'CampyUK virtual conference for Campylobacter. Sept 8 - 10 2021.',
     contacts: {
       email: '',
