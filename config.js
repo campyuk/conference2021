@@ -44,7 +44,7 @@ module.exports = {
       email: '',
       facebook: '',
       telegram: '',
-      twitter: 'campyuk',
+      twitter: 'hashtag/campyuk',
       github: '',
       rss: '',
       vkontakte: '',

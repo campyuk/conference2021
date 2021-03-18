@@ -10,6 +10,8 @@ The conference is completely free and we are aiming to best translate the confer
 
 There will five sessions from 8th - 10th of September. Conscious of different time zones, we have tried to accommodate as many regions as possible (apologies if there are some late nights!). 
 
+The official hashtag is [#campyuk](https://twitter.com/hashtag/campyuk)
+
 ## Topics at this meeting
 Topics at this meeting, include but are not limited to: 
 * Survival and Application
