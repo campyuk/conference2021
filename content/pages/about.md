@@ -4,7 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Given that CHRO2021 has been cancelled (http://chro.bomeeting.net/newsinfo/795), and there has not been a Campy-UK since 2015 (Liverpool); a group of [*Campylobacter* researchers](https://campyuk.github.io/conference2021/pages/aboutus/) felt that there should be a “virtual conference” so we can bring together the *Campylobacter* scientific community together and share our science. Campy-UK is historically an *ad hoc* conference, often in the years between a CHRO. For this particular Campy-UK, we felt it was a great opportunity to expand Campy-UK global, especially with this conference being held virtually, and so this conference is open to anyone that is interested.
+Given that CHRO2021 has been cancelled (http://chro.bomeeting.net/newsinfo/795), and there has not been a CampyUK since 2015 (Liverpool); a group of [*Campylobacter* researchers](https://campyuk.github.io/conference2021/pages/aboutus/) felt that there should be a “virtual conference” so we can bring together the *Campylobacter* scientific community together and share our science. CampyUK is historically an *ad hoc* conference, often in the years between a CHRO. For this particular CampyUK, we felt it was a great opportunity to expand CampyUK global, especially with this conference being held virtually, and so this conference is open to anyone that is interested.
 
 The conference is free and we are aiming to translate the experience including social and networking aspects into a virtual meeting.  
 
