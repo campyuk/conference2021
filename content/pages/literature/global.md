@@ -16,6 +16,7 @@ Click a topic to see a list of publications:
 * [Immunology and Host response](/pages/literature/immunology)
 * [Pathogenicity and Virulence Factors](/pages/literature/pathogenicity)
 * [Survival](/pages/literature/survival)
+
 ## Global differences in *Campylobacter* epidemiology - Highlights
 
 * Bravo, V. et al. (2021) ‘Genomic analysis of the diversity, antimicrobial resistance and virulence potential of clinical Campylobacter jejuni and Campylobacter coli strains from Chile’, PLoS neglected tropical diseases, 15(2), p. e0009207. doi: http://doi.org/10.1371/journal.pntd.0009207.
