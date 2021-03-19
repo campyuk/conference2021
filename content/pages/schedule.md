@@ -22,13 +22,13 @@ socialImage: "/media/image-2.jpg"
 |                | **Plenary panel**                            | 15:00-16:30 |
 |                | **Social event**                             | 16:30-18:00 |
 
-All times are reported in Universal Coordinated time (UTC), please see below for conversions into your local time.
+All times are reported in Grenwich Mean Time (GMT) / UTC +0, please see below for conversions into your local time.
 
 ### Timing across the world 
 
 Morning session:
-* 09:00 UTC 
-* 10:00 Norwich 
+* 09:00 GMT / UTC +0
+* 10:00 London 
 * 02:00 Los Angeles 
 * 05:00 New York 
 * 06:00 Buenos Aires
@@ -36,8 +36,8 @@ Morning session:
 * 19:00 Sydney
 
 Afternoon session:
-* 15:00 UTC 
-* 16:00 Norwich 
+* 15:00 GMT / UTC +0 
+* 16:00 London 
 * 08:00 Los Angeles 
 * 11:00 New York 
 * 12:00 Buenos Aires
