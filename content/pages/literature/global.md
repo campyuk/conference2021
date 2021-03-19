@@ -1,5 +1,5 @@
 ---
-title: "Campylobacter publications - Highlights of the last 2 years"
+title: "Highlights from the last 2 years in Campy"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
@@ -9,16 +9,14 @@ Click a topic to see a list of publications:
 
 * [AMR](/pages/literature/amr)
 * [Applied - vaccines, control strategies, feed additives, farms, chickens](/pages/literature/applied)
-* [Bioinformatics](/pages/literature/bioinformatics)
 * [Clinical micro/outbreaks/epidemiology and public health](/pages/literature/clinical)
 * [Emerging *Campylobacter* species](/pages/literature/emerging)
-* [Focus on LMICs](/pages/literature/lmics)
+* [Global differences in Campylobacter epidemiology](/pages/literature/global)
 * [Host adaptation/evolution](/pages/literature/evolution)
 * [Immunology and Host response](/pages/literature/immunology)
 * [Pathogenicity and Virulence Factors](/pages/literature/pathogenicity)
 * [Survival](/pages/literature/survival)
-
-## Focus on LMICs - Highlights
+## Global differences in *Campylobacter* epidemiology - Highlights
 
 * Bravo, V. et al. (2021) ‘Genomic analysis of the diversity, antimicrobial resistance and virulence potential of clinical Campylobacter jejuni and Campylobacter coli strains from Chile’, PLoS neglected tropical diseases, 15(2), p. e0009207. doi: http://doi.org/10.1371/journal.pntd.0009207.
 * Chen, D. et al. (2020) ‘Campylobacter Colonization, Environmental Enteric Dysfunction, Stunting, and Associated Risk Factors Among Young Children in Rural Ethiopia: A Cross-Sectional Study From the Campylobacter Genomics and Environmental Enteric Dysfunction (CAGED) Project’, Frontiers in Public Health, 8, p. 615793. doi: http://doi.org/10.3389/fpubh.2020.615793.

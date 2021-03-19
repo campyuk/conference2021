@@ -1,5 +1,5 @@
 ---
-title: "Campylobacter publications - Highlights of the last 2 years"
+title: "Highlights from the last 2 years in Campy"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
@@ -9,10 +9,9 @@ Click a topic to see a list of publications:
 
 * [AMR](/pages/literature/amr)
 * [Applied - vaccines, control strategies, feed additives, farms, chickens](/pages/literature/applied)
-* [Bioinformatics](/pages/literature/bioinformatics)
 * [Clinical micro/outbreaks/epidemiology and public health](/pages/literature/clinical)
 * [Emerging *Campylobacter* species](/pages/literature/emerging)
-* [Focus on LMICs](/pages/literature/lmics)
+* [Global differences in Campylobacter epidemiology](/pages/literature/global)
 * [Host adaptation/evolution](/pages/literature/evolution)
 * [Immunology and Host response](/pages/literature/immunology)
 * [Pathogenicity and Virulence Factors](/pages/literature/pathogenicity)

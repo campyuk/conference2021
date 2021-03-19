@@ -10,5 +10,10 @@ socialImage: "/media/image-2.jpg"
 * **[Nicol Janecko](https://quadram.ac.uk/people/nicol-janecko/)** - Group leader at the Quadram Institute
 * **[Nabil-Fareed Alikhan](https://quadram.ac.uk/people/nabil-fareed-alikhan/)** - Bioinformatician within the Core Bioinformatics group at the Quadram Institute.
 
-
 Globe featured in icon made by [turkkub](https://www.flaticon.com/authors/turkkub)
+
+## Sponsorship and prizes 
+
+Prizes (2 x £75) will be awarded for the best lightning talks, generously donated by the [Microbiology Society](https://microbiologysociety.org/) Journal, [*Microbial Genomics*](https://www.microbiologyresearch.org/content/journal/mgen).
+
+![MGen Logo](/media/mgenlogo.jpg)
