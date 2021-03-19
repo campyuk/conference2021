@@ -29,7 +29,7 @@ The talks will be run through zoom. Links will be posted here or in the discord 
 
 Zoom is free to download and install, and available on all computer operating systems and most mobile devices. https://zoom.us/download
 
-From Apr 15, 2020 04:00 PM Universal Time UTC
+From Apr 15, 2020 04:00 PM Grenwich Mean Time (GMT)/UTC +0
 
 Every week on Wed, until May 6, 2020, 4 occurrence(s)
 * Apr 15, 2020 04:00 PM
