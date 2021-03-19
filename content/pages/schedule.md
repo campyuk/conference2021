@@ -24,6 +24,8 @@ socialImage: "/media/image-2.jpg"
 
 All times are reported in Grenwich Mean Time (GMT) / UTC +0, please see below for conversions into your local time.
 
+You may need to adjust for Daylight Saving Time, particularly if you are in the United Kingdom.
+
 ### Timing across the world 
 
 Morning session:
