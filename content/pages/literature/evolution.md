@@ -19,6 +19,7 @@ Click a topic to see a list of publications:
 
 ## Host adaptation and evolution highlights
 
+* Parker et al (2021): 'Genomic Characterization of Campylobacter jejuni Adapted to the Guinea Pig (Cavia porcellus) Host', Front. Cell. Infect. Microbiol., 11:607747. doi: https://doi.org/10.3389/fcimb.2021.607747.
 * Calland, J. K. et al. (2020) ‘Quantifying bacterial evolution in the wild: a birthday problem for Campylobacter lineages’, bioRxiv, p. 2020.12.02.407999. doi: http://doi.org/10.1101/2020.12.02.407999.
 * Costa, D. et al. (2021) ‘Pangenome analysis reveals genetic isolation in Campylobacter hyointestinalis subspecies adapted to different mammalian hosts’, Scientific Reports, 11(1), p. 3431. doi: http://doi.org/10.1038/s41598-021-82993-9.
 * Di Donato, G. et al. (2020) ‘Prevalence, Population Diversity and Antimicrobial Resistance of Campylobacter coli Isolated in Italian Swine at Slaughterhouse’, Microorganisms, 8(2), p. 222. doi: http://doi.org/10.3390/microorganisms8020222.
