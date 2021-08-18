@@ -117,6 +117,18 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/aboutus/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/pages/conduct/
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/pages/conduct/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/access/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -129,6 +141,18 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/access/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/pages/publications/
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/pages/publications/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/feedback/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -153,18 +177,6 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/register/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/pages/publications/
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/pages/publications/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/schedule/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -177,18 +189,6 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/schedule/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/pages/conduct/
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/pages/conduct/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/posts/submission-announce
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -201,42 +201,6 @@
   Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/posts/submission-announce/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/posts/campyuk-2021-session-plen
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/posts/campyuk-2021-session-plen/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/posts/campyuk-2021-session-1
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/posts/campyuk-2021-session-1/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/posts/campyuk-2021-session-4
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/posts/campyuk-2021-session-4/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/posts/campyuk-2021-session-2
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -249,7 +213,7 @@
   Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/posts/campyuk-2021-session-2/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/posts/campyuk-2021-session-ap
+/conference2021/posts/campyuk-2021-session-1
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
@@ -260,7 +224,31 @@
   Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
   Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/posts/campyuk-2021-session-ap/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/posts/campyuk-2021-session-1/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/posts/campyuk-2021-session-plen
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/posts/campyuk-2021-session-plen/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/posts/campyuk-2021-session-4
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/posts/campyuk-2021-session-4/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/posts/campyuk-2021-session-3
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -273,7 +261,7 @@
   Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/posts/campyuk-2021-session-3/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/posts/campyuk-2021-session-ind
+/conference2021/posts/campyuk-2021-session-ap
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
@@ -284,7 +272,7 @@
   Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
   Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/posts/campyuk-2021-session-ind/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/posts/campyuk-2021-session-ap/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/literature/amr/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -297,6 +285,18 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/literature/amr/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/posts/campyuk-2021-session-ind
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-post-template-js-f98beeab10258ec8df66.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/posts/campyuk-2021-session-ind/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/literature/applied/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -309,18 +309,6 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/literature/applied/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/pages/literature/clinical/
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/pages/literature/clinical/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/literature/emerging/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -333,6 +321,18 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/literature/emerging/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/pages/literature/clinical/
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/pages/literature/clinical/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/literature/evolution/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -357,18 +357,6 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/literature/global/page-data.json>; rel=preload; as=fetch; crossorigin
-/conference2021/pages/literature/pathogenicity/
-  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
-  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
-  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
-  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
-  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
-  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </conference2021/page-data/pages/literature/pathogenicity/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/pages/literature/immunology/
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -393,6 +381,18 @@
   Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
   Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </conference2021/page-data/pages/literature/survival/page-data.json>; rel=preload; as=fetch; crossorigin
+/conference2021/pages/literature/pathogenicity/
+  Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/framework-55f7b2ba736e89fdc740.js>; rel=preload; as=script
+  Link: </conference2021/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </conference2021/dc6a8720040df98778fe970bf6c000a41750d3ae-f1aaf66d03f12bc670e6.js>; rel=preload; as=script
+  Link: </conference2021/app-8cd0d17dc679a16b8e14.js>; rel=preload; as=script
+  Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </conference2021/cd95ea5cbd2c605f26db819f07999610c9ff4310-19823c33ac42fe307182.js>; rel=preload; as=script
+  Link: </conference2021/component---src-templates-page-template-js-8b82bf9a200ae9dadc6a.js>; rel=preload; as=script
+  Link: </conference2021/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </conference2021/page-data/pages/literature/pathogenicity/page-data.json>; rel=preload; as=fetch; crossorigin
 /conference2021/tag/notice
   Link: </conference2021/webpack-runtime-5aa10efc2b4c4623de8a.js>; rel=preload; as=script
   Link: </conference2021/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
